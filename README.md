@@ -75,7 +75,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://fakeimg.pl/600x400"
+            src="https://images2.imgbox.com/94/ff/CaXJa7cx_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
@@ -160,7 +160,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://fakeimg.pl/600x400"
+            src="https://images2.imgbox.com/57/2f/NbvXiKAD_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
@@ -245,7 +245,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://fakeimg.pl/600x400"
+            src="https://images2.imgbox.com/5b/87/Dk0YkB5s_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
@@ -330,7 +330,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://fakeimg.pl/600x400"
+            src="https://images2.imgbox.com/a2/d7/6Ht5E4hN_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
