@@ -1,4 +1,9 @@
-
+<h1>Welcome to my React.js repository folder! 👋</h1>
+<h5>This collection houses various React.js projects that showcase my skills in frontend development. 
+<br>
+<br>
+Each project is designed to demonstrate different aspects of React, including state management, component composition, and interaction with external APIs. 👇</h4>
+<br>
 <!-- PROJECT 1 -->
 
 <table align="center" style="border-collapse: collapse; border-radius: 8px; overflow: hidden; background-color: red;">
